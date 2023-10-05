@@ -8,3 +8,5 @@ https://raw.githubusercontent.com/dgspn-3dbng-virtualskin/dgspn-3dbng-virtualski
 
 https://raw.githubusercontent.com/dgspn-3dbng-virtualskin/dgspn-3dbng-virtualskin/main/F17-1-MONA.vrm
 
+https://raw.githubusercontent.com/dgspn-3dbng-virtualskin/dgspn-3dbng-virtualskin/main/F22-1-V4-1024.vrm
+
