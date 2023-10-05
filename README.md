@@ -6,3 +6,5 @@ https://raw.githubusercontent.com/dgspn-3dbng-virtualskin/dgspn-3dbng-virtualski
 
 https://raw.githubusercontent.com/dgspn-3dbng-virtualskin/dgspn-3dbng-virtualskin/main/FIT10-V3-2-TALIAN-ilkbahar-kelebek--KAFAPATLAK-cicek-outfit-REAPIRED-.vrm
 
+https://raw.githubusercontent.com/dgspn-3dbng-virtualskin/dgspn-3dbng-virtualskin/main/F17-1-MONA.vrm
+
