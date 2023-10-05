@@ -10,6 +10,6 @@ https://raw.githubusercontent.com/dgspn-3dbng-virtualskin/dgspn-3dbng-virtualski
 
 https://raw.githubusercontent.com/dgspn-3dbng-virtualskin/dgspn-3dbng-virtualskin/main/F22-1-V4-1024.vrm
 
-https://raw.githubusercontent.com/dgspn-3dbng-virtualskin/dgspn-3dbng-virtualskin/main/F20-HUNNA-MEIN.vrm
+https://raw.githubusercontent.com/dgspn-3dbng-virtualskin/dgspn-3dbng-virtualskin/main/F20-HUNNA-MEIN-R.vrm
 
 https://raw.githubusercontent.com/dgspn-3dbng-virtualskin/dgspn-3dbng-virtualskin/main/F20-HUNNA-MEIN-WHT.vrm
