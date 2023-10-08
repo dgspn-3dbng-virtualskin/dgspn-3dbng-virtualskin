@@ -13,3 +13,10 @@ https://raw.githubusercontent.com/dgspn-3dbng-virtualskin/dgspn-3dbng-virtualski
 https://raw.githubusercontent.com/dgspn-3dbng-virtualskin/dgspn-3dbng-virtualskin/main/F20-HUNNA-MEIN-R.vrm
 
 https://raw.githubusercontent.com/dgspn-3dbng-virtualskin/dgspn-3dbng-virtualskin/main/F20-HUNNA-MEIN-WHT.vrm
+
+https://raw.githubusercontent.com/dgspn-3dbng-virtualskin/dgspn-3dbng-virtualskin/main/MANCHISTER-BY-BOSPHORUS-FIT13-1-GS.vrm
+
+https://raw.githubusercontent.com/dgspn-3dbng-virtualskin/dgspn-3dbng-virtualskin/main/MANCHISTER-BY-BOSPHORUS-FIT13-2-BWNPC.vrm
+
+https://raw.githubusercontent.com/dgspn-3dbng-virtualskin/dgspn-3dbng-virtualskin/main/MANCHISTER-BY-BOSPHORUS-FIT13-3-DYOR.vrm
+
