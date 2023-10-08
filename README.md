@@ -26,3 +26,5 @@ https://raw.githubusercontent.com/dgspn-3dbng-virtualskin/dgspn-3dbng-virtualski
 
 https://raw.githubusercontent.com/dgspn-3dbng-virtualskin/dgspn-3dbng-virtualskin/main/DOGTOOTH-FIT12_SYMBIOTE-BAKED.vrm
 
+https://raw.githubusercontent.com/dgspn-3dbng-virtualskin/dgspn-3dbng-virtualskin/main/F12-symbiote-doogtooth-1-BAKED-noCull.vrm
+
