@@ -22,4 +22,5 @@ https://raw.githubusercontent.com/dgspn-3dbng-virtualskin/dgspn-3dbng-virtualski
 
 https://raw.githubusercontent.com/dgspn-3dbng-virtualskin/dgspn-3dbng-virtualskin/main/F24-1-WHNEDARKNESSSOURROUNDS-2048-30kT.vrm
 
-https://raw.githubusercontent.com/dgspn-3dbng-virtualskin/dgspn-3dbng-virtualskin/main/f21-1-FALSEPROPS.vrm
+https://raw.githubusercontent.com/dgspn-3dbng-virtualskin/dgspn-3dbng-virtualskin/main/f21-1-FALSEPROPS-ALPH.vrm
+
