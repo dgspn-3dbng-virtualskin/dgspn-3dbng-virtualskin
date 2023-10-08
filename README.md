@@ -69,3 +69,10 @@ https://raw.githubusercontent.com/dgspn-3dbng-virtualskin/dgspn-3dbng-virtualski
 
 https://raw.githubusercontent.com/dgspn-3dbng-virtualskin/dgspn-3dbng-virtualskin/main/fit2_3-SYMBIOTE2.vrm
 
+
+https://raw.githubusercontent.com/dgspn-3dbng-virtualskin/dgspn-3dbng-virtualskin/main/FIT10-V3-SYMB-BLACK-.vrm
+
+https://raw.githubusercontent.com/dgspn-3dbng-virtualskin/dgspn-3dbng-virtualskin/main/FIT10-V3-XVPTOS-.vrm
+
+https://raw.githubusercontent.com/dgspn-3dbng-virtualskin/dgspn-3dbng-virtualskin/main/FIT10-V3FUL-Grey-ITALIANI-KINDERGARTENZEBRAJACK-ELEPHANTBULLPUNCHSHOE-.vrm
+
