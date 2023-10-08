@@ -76,3 +76,5 @@ https://raw.githubusercontent.com/dgspn-3dbng-virtualskin/dgspn-3dbng-virtualski
 
 https://raw.githubusercontent.com/dgspn-3dbng-virtualskin/dgspn-3dbng-virtualskin/main/FIT10-V3FUL-Grey-ITALIANI-KINDERGARTENZEBRAJACK-ELEPHANTBULLPUNCHSHOE-.vrm
 
+https://raw.githubusercontent.com/dgspn-3dbng-virtualskin/dgspn-3dbng-virtualskin/main/F19-2painted.vrm
+
