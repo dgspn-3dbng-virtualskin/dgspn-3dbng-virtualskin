@@ -30,3 +30,9 @@ https://raw.githubusercontent.com/dgspn-3dbng-virtualskin/dgspn-3dbng-virtualski
 
 https://raw.githubusercontent.com/dgspn-3dbng-virtualskin/dgspn-3dbng-virtualskin/main/FIT6-KOKY-nocull-toon.vrm
 
+https://raw.githubusercontent.com/dgspn-3dbng-virtualskin/dgspn-3dbng-virtualskin/main/FIT8-CAGEMYTH.vrm
+
+https://raw.githubusercontent.com/dgspn-3dbng-virtualskin/dgspn-3dbng-virtualskin/main/FIT10-V2FUL-VENEZIA-MISSONI-KINDERGARTENZEBRAJACK-ELEPHANTBULLPUNCHSHOE-.vrm
+
+https://raw.githubusercontent.com/dgspn-3dbng-virtualskin/dgspn-3dbng-virtualskin/main/DARRKWZRD-FIT9-FACE-EDITED-CLOAKBLCK2.vrm
+
