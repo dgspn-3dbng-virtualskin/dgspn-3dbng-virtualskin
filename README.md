@@ -81,3 +81,7 @@ https://raw.githubusercontent.com/dgspn-3dbng-virtualskin/dgspn-3dbng-virtualski
 
 
 https://raw.githubusercontent.com/dgspn-3dbng-virtualskin/dgspn-3dbng-virtualskin/main/F9-ZOMBIE-COLOD-FOOTSTUCK-FUP2.vrm    OK
+
+
+
+https://raw.githubusercontent.com/dgspn-3dbng-virtualskin/dgspn-3dbng-virtualskin/main/COS-V2-V2.vrm         d fw officer
